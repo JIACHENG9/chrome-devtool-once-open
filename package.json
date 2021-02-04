@@ -1,0 +1,8 @@
+{
+  "name": "chrome-devtool-once-open",
+  "version": "1.0.0",
+  "description": "Find out whether Chrome console is open",
+  "main": "index.js",
+  "author": "JIACHENG9 (https://github.com/JIACHENG9)",
+  "license": "MIT"
+}
